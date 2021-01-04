@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sunny_sarker/static/css/main.e98064ac.chunk.css",
+    "main.css": "/sunny_sarker/static/css/main.4d8a5657.chunk.css",
     "main.js": "/sunny_sarker/static/js/main.126f8110.chunk.js",
     "main.js.map": "/sunny_sarker/static/js/main.126f8110.chunk.js.map",
     "runtime-main.js": "/sunny_sarker/static/js/runtime-main.0f9cbbb9.js",
@@ -12,7 +12,7 @@
     "static/js/3.5f194f13.chunk.js.map": "/sunny_sarker/static/js/3.5f194f13.chunk.js.map",
     "index.html": "/sunny_sarker/index.html",
     "static/css/2.7bbc70eb.chunk.css.map": "/sunny_sarker/static/css/2.7bbc70eb.chunk.css.map",
-    "static/css/main.e98064ac.chunk.css.map": "/sunny_sarker/static/css/main.e98064ac.chunk.css.map",
+    "static/css/main.4d8a5657.chunk.css.map": "/sunny_sarker/static/css/main.4d8a5657.chunk.css.map",
     "static/js/2.a02471e5.chunk.js.LICENSE.txt": "/sunny_sarker/static/js/2.a02471e5.chunk.js.LICENSE.txt",
     "static/media/mdb.css": "/sunny_sarker/static/media/arrow_right.0897f985.svg",
     "static/media/all.min.css": "/sunny_sarker/static/media/fa-solid-900.46fdbd2d.woff"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.0f9cbbb9.js",
     "static/css/2.7bbc70eb.chunk.css",
     "static/js/2.a02471e5.chunk.js",
-    "static/css/main.e98064ac.chunk.css",
+    "static/css/main.4d8a5657.chunk.css",
     "static/js/main.126f8110.chunk.js"
   ]
 }

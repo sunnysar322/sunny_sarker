@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/sunny_sarker/static/css/main.95e515c4.chunk.css",
+    "main.js": "/sunny_sarker/static/js/main.a61d6c05.chunk.js",
+    "main.js.map": "/sunny_sarker/static/js/main.a61d6c05.chunk.js.map",
+    "runtime-main.js": "/sunny_sarker/static/js/runtime-main.0f9cbbb9.js",
+    "runtime-main.js.map": "/sunny_sarker/static/js/runtime-main.0f9cbbb9.js.map",
+    "static/css/2.7bbc70eb.chunk.css": "/sunny_sarker/static/css/2.7bbc70eb.chunk.css",
+    "static/js/2.9b926f3c.chunk.js": "/sunny_sarker/static/js/2.9b926f3c.chunk.js",
+    "static/js/2.9b926f3c.chunk.js.map": "/sunny_sarker/static/js/2.9b926f3c.chunk.js.map",
+    "static/js/3.5f194f13.chunk.js": "/sunny_sarker/static/js/3.5f194f13.chunk.js",
+    "static/js/3.5f194f13.chunk.js.map": "/sunny_sarker/static/js/3.5f194f13.chunk.js.map",
+    "index.html": "/sunny_sarker/index.html",
+    "static/css/2.7bbc70eb.chunk.css.map": "/sunny_sarker/static/css/2.7bbc70eb.chunk.css.map",
+    "static/css/main.95e515c4.chunk.css.map": "/sunny_sarker/static/css/main.95e515c4.chunk.css.map",
+    "static/js/2.9b926f3c.chunk.js.LICENSE.txt": "/sunny_sarker/static/js/2.9b926f3c.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/sunny_sarker/static/media/arrow_right.0897f985.svg",
+    "static/media/all.min.css": "/sunny_sarker/static/media/fa-solid-900.46fdbd2d.woff",
+    "static/media/logo1.6dfed3ba.png": "/sunny_sarker/static/media/logo1.6dfed3ba.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f9cbbb9.js",
+    "static/css/2.7bbc70eb.chunk.css",
+    "static/js/2.9b926f3c.chunk.js",
+    "static/css/main.95e515c4.chunk.css",
+    "static/js/main.a61d6c05.chunk.js"
+  ]
+}

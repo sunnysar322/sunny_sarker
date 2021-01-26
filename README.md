@@ -1,6 +1,6 @@
 # Sunny's Readme
 
-![propic][pulic/logo1.png]
+![propic][public/logo1.png]
 
 ## About Me
 
